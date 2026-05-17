@@ -144,4 +144,4 @@ Full ER diagram with attributes available in `Zerodha_Product_Dissection.pdf`
 
 ---
 
-*Project completed as part of B.E. Artificial Intelligence & Machine Learning — University of Mumbai, 2025*
+
